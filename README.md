@@ -2,6 +2,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
+This app tracks a user's workout progress using a Mongo database, Mongoose schema, and routes handled by Express. A user is able to view, create, and track daily workouts. They can also track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, the distance traveled can be tracked.
 
 ## License
 This project is licensed under the MIT license. Click the link below for more info.
