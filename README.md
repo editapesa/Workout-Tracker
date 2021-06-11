@@ -14,6 +14,6 @@ This project is licensed under the MIT license. Click the link below for more in
 ## Visuals
 Click here to view the app: [Fitness Tracker](https://fathomless-refuge-68603.herokuapp.com/)
 
-![demo pic 1](demo-pic1.png)
+![demo pic 1](public/assets/demo-pic1.jpg)
 
-![demo pic 2](demo-pic2.png)
+![demo pic 2](public/assets/demo-pic2.jpg)
